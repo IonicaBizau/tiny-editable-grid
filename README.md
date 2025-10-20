@@ -29,7 +29,7 @@
 
 
 
-> A tiny module for editable grids.
+> A tiny JavaScript library for editable grids.
 
 
 
