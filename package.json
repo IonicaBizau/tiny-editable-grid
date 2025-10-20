@@ -1,0 +1,44 @@
+{
+  "name": "tiny-editable-grid",
+  "description": "A tiny module for editable grids.",
+  "keywords": [
+    "tiny",
+    "editable",
+    "grid",
+    "a",
+    "module",
+    "for",
+    "grids"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/tiny-editable-grid#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "index.d.ts",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/tiny-editable-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/tiny-editable-grid/issues"
+  }
+}
