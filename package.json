@@ -3,10 +3,9 @@
   "description": "A tiny JavaScript library for editable grids.",
   "keywords": [
     "tiny",
-    "editable",
+    "library",
     "grid",
-    "module",
-    "grids"
+    "editable"
   ],
   "license": "MIT",
   "version": "1.0.0",
