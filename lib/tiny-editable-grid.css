@@ -1,0 +1,33 @@
+.tiny-grid {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+.tiny-grid th, .tiny-grid td {
+  border: 1px solid #ccc;
+  padding: 6px 8px;
+  min-width: 100px;
+  text-align: left;
+}
+.tiny-grid th {
+  background: #f0f0f0;
+  font-weight: bold;
+}
+.tiny-grid td {
+  background: #fff;
+}
+.tiny-grid td:focus-within {
+  outline: 2px solid #4a90e2;
+  outline-offset: -2px;
+}
+.tiny-grid input, .tiny-grid select {
+  width: 100%;
+  border: none;
+  outline: none;
+  font: inherit;
+  background: transparent;
+}
+.tiny-grid input:focus, .tiny-grid select:focus {
+  outline: none;
+}

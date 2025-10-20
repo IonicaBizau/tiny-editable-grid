@@ -40,5 +40,8 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/tiny-editable-grid/issues"
+  },
+  "blah": {
+    "ex_img": "https://i.imgur.com/VJ00Vu1.png"
   }
 }
